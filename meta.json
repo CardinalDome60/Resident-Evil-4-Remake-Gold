@@ -1,0 +1,23 @@
+{
+  "repo": "resident-evil-4-remake-gold",
+  "product": "Resident Evil 4 Remake Gold",
+  "kind": "game",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "action-game",
+  "topics": [
+    "re4-remake",
+    "survival-action-pc",
+    "resident-evil-windows",
+    "photo-mode-2026",
+    "how-to-install-re4",
+    "re4-desktop-package",
+    "campaign-plus-extras",
+    "gold-edition-pc",
+    "capcom-action-suite",
+    "re4-gold-edition"
+  ],
+  "site": "toolix.me"
+}
